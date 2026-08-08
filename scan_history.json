@@ -1,0 +1,132 @@
+[
+  {
+    "timestamp": "2026-08-08T21:16:59",
+    "file": "1_clean_recyclables.jpg",
+    "dominant": "Recyclable",
+    "purity_pct": 50.0,
+    "grade": "C",
+    "scores": {
+      "Recyclable": 0.6182870141156569,
+      "Hazardous": 0.1970925630176096,
+      "Trash": 0.18462042286673355,
+      "Organic": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:17:21",
+    "file": "2_organic_waste.jpg",
+    "dominant": "Organic",
+    "purity_pct": 99.5,
+    "grade": "A+",
+    "scores": {
+      "Organic": 0.9966931796830965,
+      "Trash": 0.002066762698064759,
+      "Recyclable": 0.0012400576188388553,
+      "Hazardous": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:17:50",
+    "file": "3_mixed_contaminated.jpg",
+    "dominant": "Hazardous",
+    "purity_pct": 11.9,
+    "grade": "D",
+    "scores": {
+      "Hazardous": 0.27356397306890756,
+      "Recyclable": 0.258223489766986,
+      "Organic": 0.25277259133112717,
+      "Trash": 0.2154399458329791
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:18:02",
+    "file": "4_general_trash.jpg",
+    "dominant": "Trash",
+    "purity_pct": 100.0,
+    "grade": "A+",
+    "scores": {
+      "Trash": 1.0,
+      "Recyclable": 0.0,
+      "Organic": 0.0,
+      "Hazardous": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:18:15",
+    "file": "5_hazardous_item.jpg",
+    "dominant": "Trash",
+    "purity_pct": 82.8,
+    "grade": "A",
+    "scores": {
+      "Trash": 0.8896885340199107,
+      "Hazardous": 0.10225459812817898,
+      "Recyclable": 0.008056867851910407,
+      "Organic": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:21:27",
+    "file": "1_clean_recyclables.jpg",
+    "dominant": "Recyclable",
+    "purity_pct": 50.0,
+    "grade": "C",
+    "scores": {
+      "Recyclable": 0.6182870141156569,
+      "Hazardous": 0.1970925630176096,
+      "Trash": 0.18462042286673355,
+      "Organic": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:21:45",
+    "file": "2_organic_waste.jpg",
+    "dominant": "Organic",
+    "purity_pct": 99.5,
+    "grade": "A+",
+    "scores": {
+      "Organic": 0.9966931796830965,
+      "Trash": 0.002066762698064759,
+      "Recyclable": 0.0012400576188388553,
+      "Hazardous": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:22:00",
+    "file": "3_mixed_contaminated.jpg",
+    "dominant": "Hazardous",
+    "purity_pct": 11.9,
+    "grade": "D",
+    "scores": {
+      "Hazardous": 0.27356397306890756,
+      "Recyclable": 0.258223489766986,
+      "Organic": 0.25277259133112717,
+      "Trash": 0.2154399458329791
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:22:12",
+    "file": "4_general_trash.jpg",
+    "dominant": "Trash",
+    "purity_pct": 100.0,
+    "grade": "A+",
+    "scores": {
+      "Trash": 1.0,
+      "Recyclable": 0.0,
+      "Organic": 0.0,
+      "Hazardous": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:22:25",
+    "file": "5_hazardous_item.jpg",
+    "dominant": "Trash",
+    "purity_pct": 82.8,
+    "grade": "A",
+    "scores": {
+      "Trash": 0.8896885340199107,
+      "Hazardous": 0.10225459812817898,
+      "Recyclable": 0.008056867851910407,
+      "Organic": 0.0
+    }
+  }
+]
